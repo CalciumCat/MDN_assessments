@@ -1,10 +1,9 @@
-/* https://github.com/mdn/learning-area/blob/master/html/introduction-to-html/marking-up-a-letter-start/css.txt */
 body {
   max-width: 800px;
   margin: 0 auto;
 }
 
-.sender-column {
+p.sender-column {
   text-align: right;
 }
 
